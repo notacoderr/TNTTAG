@@ -5,6 +5,10 @@
   
   The most played minigame on Minecraft: Bedrock Edition
   
+  # WIKI
+  
+  https://github.com/ArchonKlaus/TNTTAG/wiki
+  
   # TODO
   
   PLUGIN NOT FINISHED!
