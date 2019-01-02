@@ -1,5 +1,3 @@
-# TNTTAG
-Free TNTTag plugin (NOT FINISHED)
 
 <div align="center">
   
@@ -9,6 +7,7 @@ Free TNTTag plugin (NOT FINISHED)
   
   # TODO
   
+  PLUGIN NOT FINISHED!
   [  ] Fix NPC
   [x] Pass the TNT to a player
   
