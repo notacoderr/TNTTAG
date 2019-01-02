@@ -47,8 +47,8 @@ public $target = "";
 public function onEnable(){
 $this->getServer()->loadLevel("wait");
 $this->getServer()->getPluginManager()->registerEvents($this, $this);
-$this->getServer()->getScheduler()->scheduleRepeatingTask(new Time($this), 20);
-$this->getServer()->getScheduler()->scheduleRepeatingTask(new Tasking($this), 20);
+$this->getScheduler()->scheduleRepeatingTask(new Time($this), 20);
+$this->getScheduler()->scheduleRepeatingTask(new Tasking($this), 20);
 $this->getServer()->getCommandMap()->register("/tnt", new Tagging($this));
 $this->getLogger()->info("Charged!");
 Entity::registerEntity(NPC::class);
