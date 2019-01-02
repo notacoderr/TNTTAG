@@ -3,7 +3,7 @@
   
   # TNTTAG
   
-  The most played minigame on Minecraft: Bedrock Edition
+  The most played TNT minigame on Minecraft: Bedrock Edition
   
   # WIKI
   
