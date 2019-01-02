@@ -8,7 +8,9 @@
   # TODO
   
   PLUGIN NOT FINISHED!
-  [  ] Fix NPC
+  
+  [ ] Fix NPC
+  
   [x] Pass the TNT to a player
   
 </div>
