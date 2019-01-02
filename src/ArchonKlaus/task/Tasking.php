@@ -12,7 +12,6 @@ class Tasking extends PluginTask{
 public $plugin;
 
 public function __construct(Loader $plugin){
-parent::__construct($plugin);
 $this->plugin = $plugin; 
 $this->time = 8;
 }
