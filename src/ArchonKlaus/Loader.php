@@ -195,4 +195,5 @@ $player = $event->getPlayer();
 if(in_array($player, $this->players)){
 $event->setCancelled(true);
 }
-}}
+}
+}
